@@ -1,5 +1,5 @@
-<div align="center" style="padding:0; margin:0;">
-  <svg width="100%" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GustoxForge header">
+<div align="center">
+  <svg width="100%" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" aria-label="Hero Header">
     <defs>
       <linearGradient id="heroGradient" x1="0%" y1="0%" x2="100%" y2="100%">
         <stop offset="0%" stop-color="#8B5CF6"/>
@@ -7,220 +7,244 @@
         <stop offset="100%" stop-color="#0EA5E9"/>
       </linearGradient>
     </defs>
-    <rect x="0" y="0" width="1200" height="240" fill="url(#heroGradient)" rx="26"/>
-    <text x="50%" y="108" text-anchor="middle" fill="#0A0A0A" font-family="Inter, 'Segoe UI', sans-serif" font-size="60" font-weight="800" letter-spacing="1">GustoxForge</text>
-    <text x="50%" y="152" text-anchor="middle" fill="#0A0A0A" font-family="Inter, 'Segoe UI', sans-serif" font-size="22" font-weight="700">Systems Engineer • Automation Architect • OSINT Builder</text>
-  </svg>
-  <svg width="620" height="34" viewBox="0 0 620 34" xmlns="http://www.w3.org/2000/svg" style="margin-top:-18px;">
-    <defs>
-      <linearGradient id="glitchLine" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#8B5CF6"/>
-        <stop offset="50%" stop-color="#6366F1"/>
-        <stop offset="100%" stop-color="#0EA5E9"/>
-      </linearGradient>
-    </defs>
-    <rect x="10" y="16" width="600" height="4" fill="#0A0A0A" />
-    <rect x="20" y="16" width="580" height="4" fill="url(#glitchLine)">
-      <animate attributeName="x" values="20;12;28;20" dur="2.6s" repeatCount="indefinite"/>
-      <animate attributeName="width" values="580;540;600;580" dur="2.6s" repeatCount="indefinite"/>
+    <rect x="0" y="0" width="1200" height="240" fill="url(#heroGradient)" rx="30"/>
+    <text x="600" y="110" fill="#0D1117" font-family="Inter, 'Segoe UI', sans-serif" font-size="58" font-weight="800" text-anchor="middle">GustoxForge</text>
+    <text x="600" y="160" fill="#0D1117" font-family="Inter, 'Segoe UI', sans-serif" font-size="22" font-weight="700" text-anchor="middle">Systems Engineer • Automation Architect • OSINT Builder</text>
+    <rect x="360" y="180" width="480" height="6" fill="#0D1117"/>
+    <rect x="370" y="180" width="460" height="6" fill="#8B5CF6">
+      <animate attributeName="x" values="370;360;380;370" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="width" values="460;430;480;460" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#8B5CF6;#6366F1;#0EA5E9;#8B5CF6" dur="3s" repeatCount="indefinite"/>
     </rect>
-    <text x="50%" y="12" text-anchor="middle" fill="#e5e7eb" font-family="JetBrains Mono, monospace" font-size="12" letter-spacing="1">I build resilient systems that automate the boring and surface the signal.</text>
   </svg>
 </div>
 
-<div align="center" style="margin: 28px 0;">
-  <div style="display:inline-flex; gap:14px; align-items:center; padding:16px 22px; border-radius:16px; background: rgba(11,14,25,0.55); box-shadow:0 20px 60px rgba(0,0,0,0.35); backdrop-filter: blur(10px); border:1px solid rgba(99,102,241,0.35);">
-    <a href="mailto:afurno@pm.me" style="text-decoration:none; color:#e5e7eb; font-family:'Inter', sans-serif; font-weight:800; padding:10px 14px; border-radius:12px; background: linear-gradient(135deg, #8B5CF6, #6366F1); box-shadow:0 10px 28px rgba(99,102,241,0.35);">Email</a>
-    <a href="https://github.com/GustoxForge" style="text-decoration:none; color:#0A0A0A; font-family:'Inter', sans-serif; font-weight:800; padding:10px 14px; border-radius:12px; background: #0EA5E9; box-shadow:0 10px 28px rgba(14,165,233,0.35);">GitHub</a>
-    <span style="font-family:'JetBrains Mono', monospace; color:#cbd5e1; background: rgba(99,102,241,0.2); padding:8px 12px; border-radius:10px; border:1px solid rgba(99,102,241,0.5);">Based in Italy</span>
-    <span style="font-family:'Inter', sans-serif; color:#22c55e; padding:8px 12px; border-radius:10px; background: rgba(34,197,94,0.16); border:1px solid rgba(34,197,94,0.35); text-transform: uppercase; letter-spacing:1px; font-weight:800;">Open for collabs</span>
-  </div>
+<hr>
+
+## Contact
+
+<div align="center">
+  <svg width="26" height="26" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><rect x="2" y="4" width="20" height="16" rx="3" fill="#8B5CF6"/><path d="M4 6l8 6 8-6" stroke="#ffffff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  <a href="mailto:afurno@pm.me">afurno@pm.me</a>
+  <span> | </span>
+  <svg width="26" height="26" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="10" fill="#0EA5E9"/><path d="M9 17c0-3 6-3 6 0" stroke="#ffffff" stroke-width="2" fill="none" stroke-linecap="round"/><circle cx="9" cy="10" r="1.2" fill="#ffffff"/><circle cx="15" cy="10" r="1.2" fill="#ffffff"/></svg>
+  <a href="https://github.com/GustoxForge">github.com/GustoxForge</a>
 </div>
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:16px; margin: 26px 0;">
-  <div style="background: rgba(10,12,26,0.6); border:1px solid rgba(139,92,246,0.4); border-radius:16px; padding:16px; backdrop-filter: blur(10px); box-shadow:0 16px 40px rgba(0,0,0,0.35);">
-    <div style="display:flex; align-items:center; gap:10px; color:#e5e7eb; font-family:'Inter',sans-serif; font-weight:800;">
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#8B5CF6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
-      Full Stack automation engineer turning chaos into pipelines.
-    </div>
-  </div>
-  <div style="background: rgba(10,12,26,0.6); border:1px solid rgba(99,102,241,0.4); border-radius:16px; padding:16px; backdrop-filter: blur(10px); box-shadow:0 16px 40px rgba(0,0,0,0.35);">
-    <div style="display:flex; align-items:center; gap:10px; color:#e5e7eb; font-family:'Inter',sans-serif; font-weight:800;">
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#6366F1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l4 8H8l4-8z"/><path d="M12 22l-4-8h8l-4 8z"/><path d="M2 12l8-4v8l-8-4z"/><path d="M22 12l-8 4V8l8 4z"/></svg>
-      OSINT + security mindset in every feature and pipeline.
-    </div>
-  </div>
-  <div style="background: rgba(10,12,26,0.6); border:1px solid rgba(14,165,233,0.4); border-radius:16px; padding:16px; backdrop-filter: blur(10px); box-shadow:0 16px 40px rgba(0,0,0,0.35);">
-    <div style="display:flex; align-items:center; gap:10px; color:#e5e7eb; font-family:'Inter',sans-serif; font-weight:800;">
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0EA5E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 5h14v2H5z"/><path d="M5 11h14v2H5z"/><path d="M5 17h14v2H5z"/></svg>
-      DX-first workflows: small releases, strong guardrails, fast feedback.
-    </div>
-  </div>
-</div>
+<hr>
 
-<div style="margin: 30px 0; background: linear-gradient(135deg, rgba(139,92,246,0.16), rgba(14,165,233,0.16)); border:1px solid rgba(99,102,241,0.4); border-radius:16px; box-shadow:0 20px 60px rgba(0,0,0,0.35); backdrop-filter: blur(10px);">
-  <div style="padding: 18px 20px; font-family:'JetBrains Mono', monospace; color:#e5e7eb;">
-    <div style="color:#cbd5e1; font-weight:800;">┌── gustoxforge.js</div>
-    <div style="padding-left:12px;">│ role: "Systems Engineer & Automation Architect"</div>
-    <div style="padding-left:12px;">│ focus: ["OSINT", "browser automation", "queues", "APIs"]</div>
-    <div style="padding-left:12px;">│ values: ["clarity", "security by default", "boring-stable infra"]</div>
-    <div style="padding-left:12px;">│ shipping: ["ship small", "instrument early", "automate hard"]</div>
-    <div style="padding-left:12px;">│ stack: ["TypeScript", "Node.js", "React", "Python", "PostgreSQL", "Redis", "Playwright"]</div>
-    <div style="color:#cbd5e1; font-weight:800;">└────────────────────────────────────────────</div>
-  </div>
-</div>
+## TL;DR
 
-<div style="margin: 30px 0; padding: 18px; border-radius:16px; background: rgba(9,10,22,0.6); backdrop-filter: blur(10px); border:1px solid rgba(99,102,241,0.4); box-shadow:0 20px 60px rgba(0,0,0,0.35);">
-  <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap:16px; font-family:'Inter',sans-serif; color:#e5e7eb;">
-    <div>
-      <div style="color:#8B5CF6; font-weight:900; margin-bottom:8px;">Languages</div>
-      <div style="display:flex; flex-direction:column; gap:6px; font-weight:700;">
-        <span>• TypeScript</span>
-        <span>• JavaScript</span>
-        <span>• Python</span>
-        <span>• PHP</span>
-        <span>• SQL</span>
-      </div>
-    </div>
-    <div>
-      <div style="color:#6366F1; font-weight:900; margin-bottom:8px;">Frontend</div>
-      <div style="display:flex; flex-direction:column; gap:6px; font-weight:700;">
-        <span>• React</span>
-        <span>• Next.js</span>
-        <span>• Vite</span>
-        <span>• HTML</span>
-        <span>• CSS</span>
-      </div>
-    </div>
-    <div>
-      <div style="color:#0EA5E9; font-weight:900; margin-bottom:8px;">Backend / Infra</div>
-      <div style="display:flex; flex-direction:column; gap:6px; font-weight:700;">
-        <span>• Node.js</span>
-        <span>• Express</span>
-        <span>• Docker</span>
-        <span>• Redis</span>
-        <span>• PostgreSQL / MySQL</span>
-      </div>
-    </div>
-    <div>
-      <div style="color:#8B5CF6; font-weight:900; margin-bottom:8px;">Tools</div>
-      <div style="display:flex; flex-direction:column; gap:6px; font-weight:700;">
-        <span>• Playwright</span>
-        <span>• Git + CI/CD</span>
-        <span>• Linux</span>
-        <span>• VS Code</span>
-        <span>• Nginx</span>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div style="margin: 30px 0; display:grid; gap:16px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));">
-  <div style="background: rgba(10,12,26,0.65); border:1px solid rgba(139,92,246,0.5); border-left:6px solid #8B5CF6; border-radius:16px; padding:18px; backdrop-filter: blur(10px); box-shadow:0 16px 50px rgba(0,0,0,0.35);">
-    <div style="display:flex; align-items:center; gap:10px; color:#e5e7eb; font-family:'Inter',sans-serif; font-weight:900;">DorkStrike — advanced OSINT automation</div>
-    <ul style="margin: 12px 0 0 0; padding-left: 18px; color:#cbd5e1; font-family:'Inter',sans-serif; line-height:1.5;">
-      <li>Smart dork generator across Google/Bing/DDG.</li>
-      <li>Playwright scraping with screenshots + OCR.</li>
-      <li>SQLi/XSS/admin/listing probes; JSON/TXT/PNG output.</li>
-    </ul>
-  </div>
-  <div style="background: rgba(10,12,26,0.65); border:1px solid rgba(99,102,241,0.5); border-left:6px solid #6366F1; border-radius:16px; padding:18px; backdrop-filter: blur(10px); box-shadow:0 16px 50px rgba(0,0,0,0.35);">
-    <div style="display:flex; align-items:center; gap:10px; color:#e5e7eb; font-family:'Inter',sans-serif; font-weight:900;">ImmobiliareManager — real estate CRM</div>
-    <ul style="margin: 12px 0 0 0; padding-left: 18px; color:#cbd5e1; font-family:'Inter',sans-serif; line-height:1.5;">
-      <li>Clean CRM flows for semi-offline environments.</li>
-      <li>React + Vite frontend, Express API backend.</li>
-      <li>Modular data model built for scaling and customization.</li>
-    </ul>
-  </div>
-  <div style="background: rgba(10,12,26,0.65); border:1px solid rgba(14,165,233,0.5); border-left:6px solid #0EA5E9; border-radius:16px; padding:18px; backdrop-filter: blur(10px); box-shadow:0 16px 50px rgba(0,0,0,0.35);">
-    <div style="display:flex; align-items:center; gap:10px; color:#e5e7eb; font-family:'Inter',sans-serif; font-weight:900;">ConcorsInfo Tools — data extraction suite</div>
-    <ul style="margin: 12px 0 0 0; padding-left: 18px; color:#cbd5e1; font-family:'Inter',sans-serif; line-height:1.5;">
-      <li>OCR pipelines converting PDFs into structured datasets.</li>
-      <li>Quiz/content management for large batches.</li>
-      <li>Python automation helpers for repeatable ingestion.</li>
-    </ul>
-  </div>
-</div>
-
-<div style="margin: 36px 0; padding: 18px; border-radius:16px; background: rgba(9,10,22,0.6); border:1px solid rgba(99,102,241,0.4); backdrop-filter: blur(10px); box-shadow:0 20px 60px rgba(0,0,0,0.35); font-family:'Inter',sans-serif; color:#e5e7eb;">
-  <div style="display:flex; flex-wrap: wrap; gap: 24px; justify-content: center;">
-    <div>
-      <div style="margin-bottom:8px; font-weight:900; color:#8B5CF6;">Commit Activity</div>
-      <svg width="220" height="60" viewBox="0 0 220 60" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-          <linearGradient id="bars" x1="0%" y1="0%" x2="0%" y2="100%">
-            <stop offset="0%" stop-color="#0EA5E9"/>
-            <stop offset="100%" stop-color="#6366F1"/>
-          </linearGradient>
-        </defs>
-        <rect x="10" y="20" width="16" height="30" fill="url(#bars)" rx="4"/>
-        <rect x="40" y="10" width="16" height="40" fill="url(#bars)" rx="4"/>
-        <rect x="70" y="5" width="16" height="45" fill="url(#bars)" rx="4"/>
-        <rect x="100" y="18" width="16" height="32" fill="url(#bars)" rx="4"/>
-        <rect x="130" y="25" width="16" height="25" fill="url(#bars)" rx="4"/>
-        <rect x="160" y="12" width="16" height="38" fill="url(#bars)" rx="4"/>
-        <rect x="190" y="8" width="16" height="42" fill="url(#bars)" rx="4"/>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <svg width="320" height="120" viewBox="0 0 320 120" xmlns="http://www.w3.org/2000/svg">
+        <defs><linearGradient id="card1" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#6366F1"/></linearGradient></defs>
+        <rect x="4" y="4" width="312" height="112" rx="14" fill="#0D1117" stroke="url(#card1)" stroke-width="3"/>
+        <circle cx="32" cy="36" r="12" fill="#8B5CF6"/>
+        <text x="54" y="42" fill="#ffffff" font-family="Inter, sans-serif" font-size="16" font-weight="700">Full Stack automation</text>
+        <text x="24" y="74" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="13">Build pipelines that tame manual chaos.</text>
       </svg>
-    </div>
-    <div>
-      <div style="margin-bottom:8px; font-weight:900; color:#6366F1;">Project Focus Radar</div>
-      <svg width="180" height="140" viewBox="0 0 180 140" xmlns="http://www.w3.org/2000/svg">
-        <polygon points="90,20 150,60 130,120 50,120 30,60" fill="rgba(14,165,233,0.15)" stroke="#0EA5E9" stroke-width="2"/>
-        <polygon points="90,40 130,70 115,105 65,105 50,70" fill="rgba(99,102,241,0.18)" stroke="#6366F1" stroke-width="2"/>
-        <polygon points="90,60 115,80 105,95 75,95 65,80" fill="rgba(139,92,246,0.2)" stroke="#8B5CF6" stroke-width="2"/>
-        <circle cx="90" cy="20" r="3" fill="#0EA5E9"/>
-        <circle cx="150" cy="60" r="3" fill="#0EA5E9"/>
-        <circle cx="130" cy="120" r="3" fill="#0EA5E9"/>
-        <circle cx="50" cy="120" r="3" fill="#0EA5E9"/>
-        <circle cx="30" cy="60" r="3" fill="#0EA5E9"/>
+    </td>
+    <td align="center">
+      <svg width="320" height="120" viewBox="0 0 320 120" xmlns="http://www.w3.org/2000/svg">
+        <defs><linearGradient id="card2" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#6366F1"/><stop offset="100%" stop-color="#0EA5E9"/></linearGradient></defs>
+        <rect x="4" y="4" width="312" height="112" rx="14" fill="#0D1117" stroke="url(#card2)" stroke-width="3"/>
+        <rect x="22" y="30" width="20" height="20" fill="#0EA5E9"/>
+        <text x="54" y="42" fill="#ffffff" font-family="Inter, sans-serif" font-size="16" font-weight="700">Security/OSINT native</text>
+        <text x="24" y="74" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="13">Investigations, scraping, signal-first delivery.</text>
       </svg>
-    </div>
-    <div>
-      <div style="margin-bottom:8px; font-weight:900; color:#0EA5E9;">Languages Weight</div>
-      <svg width="220" height="80" viewBox="0 0 220 80" xmlns="http://www.w3.org/2000/svg">
-        <rect x="10" y="20" width="120" height="12" rx="6" fill="rgba(139,92,246,0.3)"/>
-        <rect x="10" y="20" width="96" height="12" rx="6" fill="#8B5CF6"/>
-        <text x="140" y="30" font-family="JetBrains Mono, monospace" font-size="11" fill="#cbd5e1">TypeScript/JS</text>
-        <rect x="10" y="40" width="90" height="12" rx="6" fill="rgba(99,102,241,0.3)"/>
-        <rect x="10" y="40" width="70" height="12" rx="6" fill="#6366F1"/>
-        <text x="140" y="50" font-family="JetBrains Mono, monospace" font-size="11" fill="#cbd5e1">Python</text>
-        <rect x="10" y="60" width="70" height="12" rx="6" fill="rgba(14,165,233,0.3)"/>
-        <rect x="10" y="60" width="54" height="12" rx="6" fill="#0EA5E9"/>
-        <text x="140" y="70" font-family="JetBrains Mono, monospace" font-size="11" fill="#cbd5e1">SQL / PHP</text>
+    </td>
+    <td align="center">
+      <svg width="320" height="120" viewBox="0 0 320 120" xmlns="http://www.w3.org/2000/svg">
+        <defs><linearGradient id="card3" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0EA5E9"/><stop offset="100%" stop-color="#8B5CF6"/></linearGradient></defs>
+        <rect x="4" y="4" width="312" height="112" rx="14" fill="#0D1117" stroke="url(#card3)" stroke-width="3"/>
+        <polygon points="22,44 34,28 46,44" fill="#6366F1"/>
+        <text x="54" y="42" fill="#ffffff" font-family="Inter, sans-serif" font-size="16" font-weight="700">DX-first delivery</text>
+        <text x="24" y="74" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="13">Small releases, strong guardrails, clear logs.</text>
       </svg>
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
-<div style="margin: 34px 0; padding: 22px; border-radius:18px; background: rgba(9,10,22,0.7); border:1px solid rgba(99,102,241,0.45); backdrop-filter: blur(12px); box-shadow:0 24px 70px rgba(0,0,0,0.4);">
-  <div style="font-family:'Inter',sans-serif; font-size:22px; color:#e5e7eb; font-weight:900; margin-bottom:12px;">How I Work</div>
-  <div style="font-family:'JetBrains Mono', monospace; color:#cbd5e1; font-size:14px; margin-bottom:14px;">“Automate everything. Build once. Scale infinitely.”</div>
-  <div style="display:flex; flex-wrap: wrap; gap: 10px;">
-    <span style="padding:10px 14px; border-radius:12px; background: rgba(139,92,246,0.16); border:1px solid rgba(139,92,246,0.4); color:#e5e7eb; font-family:'Inter',sans-serif; font-weight:800;">Ship small, measurable increments</span>
-    <span style="padding:10px 14px; border-radius:12px; background: rgba(99,102,241,0.16); border:1px solid rgba(99,102,241,0.4); color:#e5e7eb; font-family:'Inter',sans-serif; font-weight:800;">Automate everything repeatable</span>
-    <span style="padding:10px 14px; border-radius:12px; background: rgba(14,165,233,0.16); border:1px solid rgba(14,165,233,0.4); color:#e5e7eb; font-family:'Inter',sans-serif; font-weight:800;">Design DX-first tools & internal APIs</span>
-    <span style="padding:10px 14px; border-radius:12px; background: rgba(99,102,241,0.16); border:1px solid rgba(99,102,241,0.4); color:#e5e7eb; font-family:'Inter',sans-serif; font-weight:800;">Observability and logs from day zero</span>
-  </div>
-</div>
+<hr>
 
-<div align="center" style="margin: 30px 0;">
-  <svg width="100%" height="70" viewBox="0 0 1200 70" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="footerWave" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0EA5E9"/>
-        <stop offset="50%" stop-color="#6366F1"/>
-        <stop offset="100%" stop-color="#8B5CF6"/>
-      </linearGradient>
-    </defs>
-    <path d="M0 35 Q300 5 600 35 T1200 35 V70 H0 Z" fill="url(#footerWave)" opacity="0.6"/>
-    <path d="M0 45 Q300 15 600 45 T1200 45 V70 H0 Z" fill="url(#footerWave)" opacity="0.85"/>
+## Personal Object
+
+<div align="center">
+  <svg width="760" height="210" viewBox="0 0 760 210" xmlns="http://www.w3.org/2000/svg">
+    <rect x="10" y="10" width="740" height="190" rx="14" fill="#0D1117" stroke="#6366F1" stroke-width="2"/>
+    <text x="30" y="50" fill="#8B5CF6" font-family="JetBrains Mono, monospace" font-size="16" font-weight="700">┌ gustoxforge.js</text>
+    <text x="30" y="80" fill="#e5e7eb" font-family="JetBrains Mono, monospace" font-size="15">│ role: Systems Engineer & Automation Architect</text>
+    <text x="30" y="105" fill="#e5e7eb" font-family="JetBrains Mono, monospace" font-size="15">│ focus: OSINT, browser automation, queues, APIs</text>
+    <text x="30" y="130" fill="#e5e7eb" font-family="JetBrains Mono, monospace" font-size="15">│ values: clarity, security-by-default, stable infra</text>
+    <text x="30" y="155" fill="#e5e7eb" font-family="JetBrains Mono, monospace" font-size="15">│ stack: TypeScript, Node.js, React, Python, PostgreSQL, Redis, Playwright</text>
+    <text x="30" y="185" fill="#8B5CF6" font-family="JetBrains Mono, monospace" font-size="16" font-weight="700">└──────────────────────────────────────────────────────</text>
   </svg>
-  <div style="font-family:'Inter',sans-serif; color:#e5e7eb; margin-top:-12px; display:flex; flex-direction:column; gap:8px; align-items:center;">
-    <div style="display:flex; gap:12px;">
-      <a href="mailto:afurno@pm.me" style="text-decoration:none; color:#0EA5E9; font-weight:900;">afurno@pm.me</a>
-      <span style="color:#94a3b8;">|</span>
-      <a href="https://github.com/GustoxForge" style="text-decoration:none; color:#8B5CF6; font-weight:900;">github.com/GustoxForge</a>
-    </div>
-    <div style="font-family:'JetBrains Mono', monospace; color:#cbd5e1;">Built with 💜 in Italy</div>
-  </div>
+</div>
+
+<hr>
+
+## Toolbox
+
+<table width="100%">
+  <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td align="center"><strong>Frontend</strong></td>
+    <td align="center"><strong>Backend/Infra</strong></td>
+    <td align="center"><strong>Tools</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#8B5CF6"/></svg> TypeScript<br>
+      <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#8B5CF6"/></svg> JavaScript<br>
+      <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#6366F1"/></svg> Python<br>
+      <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#0EA5E9"/></svg> PHP<br>
+      <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#6366F1"/></svg> SQL
+    </td>
+    <td>
+      <svg width="12" height="12"><rect x="0" y="0" width="12" height="12" fill="#0EA5E9"/></svg> React<br>
+      <svg width="12" height="12"><rect x="0" y="0" width="12" height="12" fill="#6366F1"/></svg> Next.js<br>
+      <svg width="12" height="12"><rect x="0" y="0" width="12" height="12" fill="#8B5CF6"/></svg> Vite<br>
+      <svg width="12" height="12"><rect x="0" y="0" width="12" height="12" fill="#0EA5E9"/></svg> HTML<br>
+      <svg width="12" height="12"><rect x="0" y="0" width="12" height="12" fill="#6366F1"/></svg> CSS
+    </td>
+    <td>
+      <svg width="12" height="12"><polygon points="6,0 12,12 0,12" fill="#8B5CF6"/></svg> Node.js<br>
+      <svg width="12" height="12"><polygon points="6,0 12,12 0,12" fill="#0EA5E9"/></svg> Express<br>
+      <svg width="12" height="12"><polygon points="6,0 12,12 0,12" fill="#6366F1"/></svg> Docker<br>
+      <svg width="12" height="12"><polygon points="6,0 12,12 0,12" fill="#8B5CF6"/></svg> Redis<br>
+      <svg width="12" height="12"><polygon points="6,0 12,12 0,12" fill="#0EA5E9"/></svg> PostgreSQL / MySQL
+    </td>
+    <td>
+      <svg width="12" height="12"><rect x="2" y="2" width="8" height="8" fill="#8B5CF6"/></svg> Playwright<br>
+      <svg width="12" height="12"><rect x="2" y="2" width="8" height="8" fill="#6366F1"/></svg> Git + CI/CD<br>
+      <svg width="12" height="12"><rect x="2" y="2" width="8" height="8" fill="#0EA5E9"/></svg> Linux<br>
+      <svg width="12" height="12"><rect x="2" y="2" width="8" height="8" fill="#8B5CF6"/></svg> VS Code<br>
+      <svg width="12" height="12"><rect x="2" y="2" width="8" height="8" fill="#0EA5E9"/></svg> Nginx
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+## Featured Projects
+
+<table width="100%">
+  <tr>
+    <td>
+      <svg width="100%" height="130" viewBox="0 0 800 130" xmlns="http://www.w3.org/2000/svg">
+        <rect x="8" y="8" width="784" height="114" rx="12" fill="#0D1117" stroke="#8B5CF6" stroke-width="4"/>
+        <rect x="8" y="8" width="10" height="114" fill="#8B5CF6"/>
+        <text x="30" y="42" fill="#ffffff" font-family="Inter, sans-serif" font-size="18" font-weight="800">DorkStrike — advanced OSINT automation</text>
+        <text x="30" y="70" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="14">Smart dork generator across Google/Bing/DDG.</text>
+        <text x="30" y="90" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="14">Playwright scraping with screenshots + OCR baked in.</text>
+        <text x="30" y="110" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="14">SQLi/XSS/admin/listing probes; JSON/TXT/PNG output.</text>
+        <circle cx="760" cy="35" r="10" fill="#8B5CF6"/>
+      </svg>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <svg width="100%" height="130" viewBox="0 0 800 130" xmlns="http://www.w3.org/2000/svg">
+        <rect x="8" y="8" width="784" height="114" rx="12" fill="#0D1117" stroke="#6366F1" stroke-width="4"/>
+        <rect x="8" y="8" width="10" height="114" fill="#6366F1"/>
+        <text x="30" y="42" fill="#ffffff" font-family="Inter, sans-serif" font-size="18" font-weight="800">ImmobiliareManager — real estate CRM</text>
+        <text x="30" y="70" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="14">Clean CRM flows for semi-offline environments.</text>
+        <text x="30" y="90" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="14">React + Vite frontend, Express API backend.</text>
+        <text x="30" y="110" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="14">Modular data model built for scaling and customization.</text>
+        <circle cx="760" cy="35" r="10" fill="#6366F1"/>
+      </svg>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <svg width="100%" height="130" viewBox="0 0 800 130" xmlns="http://www.w3.org/2000/svg">
+        <rect x="8" y="8" width="784" height="114" rx="12" fill="#0D1117" stroke="#0EA5E9" stroke-width="4"/>
+        <rect x="8" y="8" width="10" height="114" fill="#0EA5E9"/>
+        <text x="30" y="42" fill="#ffffff" font-family="Inter, sans-serif" font-size="18" font-weight="800">ConcorsInfo Tools — data extraction suite</text>
+        <text x="30" y="70" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="14">OCR pipelines converting PDFs into structured datasets.</text>
+        <text x="30" y="90" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="14">Quiz/content management for large batches.</text>
+        <text x="30" y="110" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="14">Python automation helpers for repeatable ingestion.</text>
+        <circle cx="760" cy="35" r="10" fill="#0EA5E9"/>
+      </svg>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+## GitHub Presence
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <svg width="240" height="120" viewBox="0 0 240 120" xmlns="http://www.w3.org/2000/svg">
+        <text x="10" y="20" fill="#ffffff" font-family="Inter, sans-serif" font-size="14" font-weight="700">Commit Activity</text>
+        <defs><linearGradient id="bars" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#0EA5E9"/><stop offset="100%" stop-color="#6366F1"/></linearGradient></defs>
+        <rect x="10" y="40" width="16" height="60" rx="4" fill="url(#bars)"/>
+        <rect x="34" y="30" width="16" height="70" rx="4" fill="url(#bars)"/>
+        <rect x="58" y="24" width="16" height="76" rx="4" fill="url(#bars)"/>
+        <rect x="82" y="36" width="16" height="64" rx="4" fill="url(#bars)"/>
+        <rect x="106" y="48" width="16" height="52" rx="4" fill="url(#bars)"/>
+        <rect x="130" y="32" width="16" height="68" rx="4" fill="url(#bars)"/>
+        <rect x="154" y="28" width="16" height="72" rx="4" fill="url(#bars)"/>
+        <rect x="178" y="44" width="16" height="56" rx="4" fill="url(#bars)"/>
+        <rect x="202" y="38" width="16" height="62" rx="4" fill="url(#bars)"/>
+      </svg>
+    </td>
+    <td align="center">
+      <svg width="240" height="120" viewBox="0 0 240 120" xmlns="http://www.w3.org/2000/svg">
+        <text x="10" y="20" fill="#ffffff" font-family="Inter, sans-serif" font-size="14" font-weight="700">Language Weight</text>
+        <rect x="10" y="40" width="160" height="12" rx="6" fill="#8B5CF6"/>
+        <rect x="10" y="60" width="120" height="12" rx="6" fill="#6366F1"/>
+        <rect x="10" y="80" width="90" height="12" rx="6" fill="#0EA5E9"/>
+        <text x="180" y="49" fill="#cbd5e1" font-family="JetBrains Mono, monospace" font-size="11">TS/JS</text>
+        <text x="180" y="69" fill="#cbd5e1" font-family="JetBrains Mono, monospace" font-size="11">Python</text>
+        <text x="180" y="89" fill="#cbd5e1" font-family="JetBrains Mono, monospace" font-size="11">SQL/PHP</text>
+      </svg>
+    </td>
+    <td align="center">
+      <svg width="240" height="120" viewBox="0 0 240 120" xmlns="http://www.w3.org/2000/svg">
+        <text x="10" y="20" fill="#ffffff" font-family="Inter, sans-serif" font-size="14" font-weight="700">Focus Radar</text>
+        <polygon points="120,30 190,70 160,110 80,110 50,70" fill="rgba(14,165,233,0.2)" stroke="#0EA5E9" stroke-width="2"/>
+        <polygon points="120,50 170,75 150,100 90,100 70,75" fill="rgba(99,102,241,0.2)" stroke="#6366F1" stroke-width="2"/>
+        <polygon points="120,70 150,80 140,95 100,95 90,80" fill="rgba(139,92,246,0.2)" stroke="#8B5CF6" stroke-width="2"/>
+        <circle cx="120" cy="30" r="3" fill="#0EA5E9"/>
+        <circle cx="190" cy="70" r="3" fill="#0EA5E9"/>
+        <circle cx="160" cy="110" r="3" fill="#0EA5E9"/>
+        <circle cx="80" cy="110" r="3" fill="#0EA5E9"/>
+        <circle cx="50" cy="70" r="3" fill="#0EA5E9"/>
+      </svg>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+## Philosophy
+
+<div align="center">
+  <svg width="90%" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
+    <rect x="10" y="10" width="880" height="120" rx="16" fill="#0D1117" stroke="#8B5CF6" stroke-width="3"/>
+    <text x="450" y="70" fill="#ffffff" font-family="Inter, sans-serif" font-size="22" font-weight="800" text-anchor="middle">“Automate everything. Build once. Scale infinitely.”</text>
+  </svg>
+  <br>
+  <svg width="90%" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+    <rect x="20" y="20" width="190" height="40" rx="12" fill="rgba(139,92,246,0.25)" stroke="#8B5CF6" stroke-width="2"/>
+    <rect x="230" y="20" width="190" height="40" rx="12" fill="rgba(99,102,241,0.25)" stroke="#6366F1" stroke-width="2"/>
+    <rect x="440" y="20" width="190" height="40" rx="12" fill="rgba(14,165,233,0.25)" stroke="#0EA5E9" stroke-width="2"/>
+    <rect x="650" y="20" width="190" height="40" rx="12" fill="rgba(99,102,241,0.25)" stroke="#6366F1" stroke-width="2"/>
+    <text x="115" y="46" fill="#e5e7eb" font-family="Inter, sans-serif" font-size="14" font-weight="700" text-anchor="middle">Ship small, measurable</text>
+    <text x="325" y="46" fill="#e5e7eb" font-family="Inter, sans-serif" font-size="14" font-weight="700" text-anchor="middle">Automate the repeatable</text>
+    <text x="545" y="46" fill="#e5e7eb" font-family="Inter, sans-serif" font-size="14" font-weight="700" text-anchor="middle">Design DX-first APIs</text>
+    <text x="755" y="46" fill="#e5e7eb" font-family="Inter, sans-serif" font-size="14" font-weight="700" text-anchor="middle">Logs and observability early</text>
+  </svg>
+</div>
+
+<hr>
+
+<div align="center">
+  <p><a href="mailto:afurno@pm.me">afurno@pm.me</a> | <a href="https://github.com/GustoxForge">github.com/GustoxForge</a></p>
+  <p><span style="color:#8B5CF6;">Built with 💜 in Italy</span></p>
 </div>
