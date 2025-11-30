@@ -1,157 +1,143 @@
+<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:0ea5e9&height=200&section=header&text=GustoxForge&fontSize=70&fontAlignY=35&desc=Building%20Systems%2C%20Not%20Just%20Apps&descAlignY=55&descAlign=50&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:0EA5E9&height=200&section=header&text=GustoxForge&fontSize=70&fontAlignY=35&desc=Building%20Systems,%20Not%20Just%20Apps&descAlignY=55&descAlign=50&animation=fadeIn&fontColor=ffffff" width="100%" />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Full+Stack+Developer;Automation+Engineer;OSINT+%26+Security+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=640&height=40&lines=Full+Stack+Developer+%C2%B7+Automation+Engineer+%C2%B7+OSINT%2FSecurity+Enthusiast" alt="Typing SVG" />
   </a>
-  <br/><br/>
-  [![Email](https://img.shields.io/badge/afurno@pm.me-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:afurno@pm.me)
-  [![GitHub](https://img.shields.io/badge/GustoxForge-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustoxForge)
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=GustoxForge&style=for-the-badge&color=8b5cf6" alt="Profile Views"/>
+</div>
+
+<!-- CONTACT & SOCIAL BADGES -->
+<div align="center">
+  <a href="mailto:afurno@pm.me">
+    <img src="https://img.shields.io/badge/Email-afurno@pm.me-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/GustoxForge">
+    <img src="https://img.shields.io/badge/GitHub-GustoxForge-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio coming soon" />
 </div>
 
 ---
 
-## 🧭 TL;DR
+<!-- TL;DR -->
+## TL;DR
 
-- Full Stack dev + automation engineer turning manual workflows into resilient systems.
-- I ship OSINT pipelines, backend-heavy products, and DX-friendly tooling.
-- Currently building intelligent automation stacks (browser, OCR, queues, worker pools).
-- Operating from Italy; open to collaborations and niche security projects.
+- Full Stack dev and automation engineer from Italy.
+- I turn messy, manual workflows into resilient systems with guardrails.
+- I build OSINT pipelines, backend-heavy products, and DX-first tooling.
+- Open to niche security projects and collaborations.
 
 ---
 
-## 🧬 About Me (Node-style)
+<!-- NODE-STYLE ABOUT ME -->
+## About Me (Node-style)
 
-```typescript
+```javascript
 const gustoxforge = {
   role: "Full Stack Developer & Automation Engineer",
   location: "Italy",
-  focus: ["Backend Systems", "OSINT Tools", "Automation Pipelines"],
-  currentlyBuilding: "Intelligent automation stacks with browser + OCR + workers",
-  philosophy: "Automate everything. Build once. Scale infinitely.",
-  habits: ["fast prototyping", "observability from day one", "ship small, ship often"]
+  stack: ["TypeScript", "Node.js", "React", "Python", "Playwright", "PostgreSQL"],
+  currentFocus: "Automation stacks with browser workers, OCR, queues, and APIs",
+  values: ["clarity", "security-by-default", "boring-stable infra"],
+  shippingHabits: ["small releases", "instrument everything", "bias for automation"]
 };
 ```
 
 ---
 
-## 🛠️ Toolbox
+<!-- TOOLBOX / TECH STACK -->
+## Toolbox
+
+**Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-0EA5E9?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8B5CF6?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6366F1?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0EA5E9?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-0EA5E9?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-6366F1?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8B5CF6?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0EA5E9?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-6366F1?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & DevOps**  
+![Node.js](https://img.shields.io/badge/Node.js-8B5CF6?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0EA5E9?style=flat-square&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-6366F1?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-8B5CF6?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0EA5E9?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-6366F1?style=flat-square&logo=mysql&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-8B5CF6?style=flat-square&logo=microsoft-edge&logoColor=white)
+
+**Data & Tools**  
+![Git](https://img.shields.io/badge/Git-0EA5E9?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-6366F1?style=flat-square&logo=linux&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-8B5CF6?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-0EA5E9?style=flat-square&logo=nginx&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-6366F1?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+<!-- FEATURED PROJECTS -->
+## Featured Projects
+
+> **DorkStrike — advanced OSINT automation**  
+> - Smart dork generator across Google/Bing/DDG.  
+> - Playwright scraping with screenshots + OCR baked in.  
+> - Probes for SQLi/XSS/admin/listing; JSON/TXT/PNG reporting.
+
+> **ImmobiliareManager — real estate CRM**  
+> - Clean CRM experience for semi-offline workflows.  
+> - React + Vite frontend, Express API backend.  
+> - Modular data model ready to scale and customize.
+
+> **ConcorsInfo Tools — data extraction suite**  
+> - OCR pipelines turning PDFs into structured datasets.  
+> - Quiz and content management flows for large batches.  
+> - Python automation helpers for repeatable ingestion.
+
+---
+
+<!-- GITHUB STATS -->
+## GitHub Analytics
 
 <div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,php,ruby,bash&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" />
-
-**Backend & DevOps**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,rails,docker,nginx,linux&theme=dark" />
-
-**Data & Tools**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,git,github&theme=dark" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GustoxForge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=0EA5E9&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=GustoxForge&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=0EA5E9&currStreakLabel=8B5CF6" alt="GitHub streak" />
+</div>
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustoxForge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" alt="Top languages" />
 </div>
 
 ---
 
-## 🚀 Featured Builds
+<!-- CONTRIBUTION SNAKE -->
+## Contribution Snake
 
-- **DorkStrike — Advanced OSINT Automation**  
-  Dynamic dork generator with Playwright smart scraping, auto screenshots + OCR, vulnerability probes (SQLi/XSS/admin/listing), JSON/TXT/PNG reporting.
+![Snake status](https://img.shields.io/github/actions/workflow/status/GustoxForge/GustoxForge/snake.yml?label=snake%20status&logo=githubactions&logoColor=white&color=8B5CF6)
 
-- **ImmobiliareManager — Real Estate CRM**  
-  React + Vite frontend, Express backend. Modular architecture, offline-friendly UX, and a clean data model built for scale.
+![Contribution snake dark](https://raw.githubusercontent.com/GustoxForge/GustoxForge/output/snake-dark.svg#gh-dark-mode-only)
+![Contribution snake light](https://raw.githubusercontent.com/GustoxForge/GustoxForge/output/snake-light.svg#gh-light-mode-only)
 
-- **ConcorsInfo Tools — Data Extraction Suite**  
-  Large-scale OCR extraction (PDF → structured data), quiz management, parsing pipelines, and Python automation helpers.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustoxForge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=0ea5e9&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustoxForge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GustoxForge&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=0EA5E9&currStreakLabel=8B5CF6" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustoxForge&bg_color=0d1117&color=8b5cf6&line=0ea5e9&point=8b5cf6&area=true&area_color=8b5cf6&hide_border=true" width="95%" />
-</div>
+Auto-generated daily via the `snake.yml` workflow targeting the `output` branch.
 
 ---
 
-## 🐍 Contribution Snake
+<!-- HOW I WORK / PHILOSOPHY -->
+## Build • Automate • Ship • Repeat
 
-<div align="center">
-  <a href="https://github.com/GustoxForge/GustoxForge/actions/workflows/snake.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/GustoxForge/GustoxForge/snake.yml?label=snake%20status&logo=githubactions&logoColor=white&color=8b5cf6" alt="Snake workflow status" />
-  </a>
-  <svg width="420" height="12" viewBox="0 0 420 12" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="snakePulse" x1="0%" x2="100%" y1="0%" y2="0%">
-        <stop offset="0%" stop-color="#8b5cf6">
-          <animate attributeName="stop-color" values="#8b5cf6;#0ea5e9;#8b5cf6" dur="6s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="50%" stop-color="#0ea5e9">
-          <animate attributeName="stop-color" values="#0ea5e9;#14b8a6;#0ea5e9" dur="6s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#14b8a6">
-          <animate attributeName="stop-color" values="#14b8a6;#8b5cf6;#14b8a6" dur="6s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="420" height="12" rx="6" fill="url(#snakePulse)">
-      <animate attributeName="width" values="380;420;380" dur="6s" repeatCount="indefinite" />
-    </rect>
-  </svg>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustoxForge/GustoxForge/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustoxForge/GustoxForge/output/snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/GustoxForge/GustoxForge/output/snake-dark.svg" alt="Animated contribution snake" width="95%" />
-  </picture>
-  <p>
-    <em>Gradient snake, custom dots palette, auto-regenerated ogni giorno.</em>
-  </p>
-</div>
-
-> **Come attivarla:** il workflow `.github/workflows/snake.yml` genera e pubblica automaticamente le SVG su `output`. Puoi lanciarlo subito da “Actions → Generate Snake → Run workflow”.
+- Automate everything repeatable; scripts beat manual toil.
+- Ship small, measurable increments with feedback loops.
+- Design DX-friendly tools and internal APIs first.
+- Logs and observability from day one, not later.
+- Automate everything. Build once. Scale infinitely.
 
 ---
 
-## ⚡ How I Work
+<!-- CONTACT / COLLABS -->
+## Collaborate
 
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║    Automate everything. Build once. Scale infinitely.          ║
-║                                                                ║
-║    ▸ Ship small, measurable increments                         ║
-║    ▸ Prefer automation over repetition                         ║
-║    ▸ Design tools that feel effortless to use                  ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=120&section=footer" width="100%" />
-
-**Build • Automate • Ship • Repeat**
-
-</div>
+Based in Italy and open to collaborations on OSINT, automation, internal tools, and niche security projects.  
+Reach me at [afurno@pm.me](mailto:afurno@pm.me) or say hi on [GitHub](https://github.com/GustoxForge).
