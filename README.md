@@ -106,10 +106,17 @@ const gustoxforge = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GustoxForge/GustoxForge/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustoxForge/GustoxForge/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustoxForge/GustoxForge/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/GustoxForge/GustoxForge/output/snake-dark.svg" alt="Animated contribution snake" width="95%" />
+  </picture>
+  <p>
+    <em>Gradient snake, custom dots palette, auto-regenerated every day.</em>
+  </p>
 </div>
 
-> **Setup Required:** Per attivare la snake animation, crea il file `.github/workflows/snake.yml` nel tuo repository profile (vedi sotto).
+> **Come attivarla:** il workflow `.github/workflows/snake.yml` genera e pubblica automaticamente le SVG su `output`. Puoi lanciarlo subito da “Actions → Generate Snake → Run workflow”.
 
 ---
 
