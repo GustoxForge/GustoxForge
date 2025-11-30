@@ -95,6 +95,9 @@ const gustoxforge = {
 ## 🐍 Contribution Snake
 
 <div align="center">
+  <a href="https://github.com/GustoxForge/GustoxForge/actions/workflows/snake.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/GustoxForge/GustoxForge/snake.yml?label=snake%20status&logo=githubactions&logoColor=white&color=8b5cf6" alt="Snake workflow status" />
+  </a>
   <svg width="420" height="12" viewBox="0 0 420 12" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <linearGradient id="snakePulse" x1="0%" x2="100%" y1="0%" y2="0%">
