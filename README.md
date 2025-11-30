@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:6366F1,100:0EA5E9&text=GustoxForge&fontColor=ffffff&fontSize=52&animation=fadeIn&desc=Systems%20Engineer%20%E2%80%A2%20Automation%20Architect%20%E2%80%A2%20OSINT%20Builder&descAlign=50&descAlignY=70&fontAlignY=35" alt="GustoxForge banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:6366F1,100:0EA5E9&text=GustoxForge&fontColor=ffffff&fontSize=50&animation=fadeIn&desc=Systems%20Engineer%20%E2%80%A2%20Automation%20Architect%20%E2%80%A2%20OSINT%20Builder&descAlign=50&descAlignY=70&fontAlignY=35" alt="GustoxForge banner"/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=520&height=30&lines=Full+Stack+Automation+%7C+Security-first+Mindset+%7C+OSINT+Pipelines" alt="typing svg"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Building+systems%2C+not+just+apps;Automation+%7C+OSINT+%7C+Performance;Clean+code.+Fast+tools.+Always." alt="Typing SVG"/>
   </a>
-  <p style="color:#0EA5E9;">Neon-grade builder of resilient, observable systems.</p>
+  <p style="color:#0EA5E9; text-align:center;">Neon-grade builder of resilient, observable systems.</p>
 </div>
 
 <div align="center" style="color:#8B5CF6;">
@@ -17,7 +17,7 @@
 
 ## TL;DR
 
-<p style="color:#8B5CF6;">✦ Full Stack dev and automation engineer; I turn manual chaos into pipelines.</p>
+<p style="color:#8B5CF6;">✦ Full Stack dev & automation engineer turning manual chaos into pipelines.</p>
 <p style="color:#6366F1;">✦ OSINT and security baked in: browsers, scraping, OCR, probes.</p>
 <p style="color:#0EA5E9;">✦ DX-first delivery: small releases, observability, hard guardrails.</p>
 
