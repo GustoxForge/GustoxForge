@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/GustoxForge"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/afurno"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/augusto-furno-a905241b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
   <a href="mailto:afurno@pm.me"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=minutemailer&logoColor=ffffff" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Italy-6366F1?style=for-the-badge&logo=googlemaps&logoColor=ffffff" alt="Location" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborations-8B5CF6?style=for-the-badge&logo=handshake&logoColor=ffffff" alt="Open to collaborate" />
@@ -17,7 +17,7 @@
   <a href="https://github.com/GustoxForge" title="GitHub">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub badge" />
   </a>
-  <a href="https://www.linkedin.com/in/afurno" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/augusto-furno-a905241b9/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn badge" />
   </a>
   <a href="mailto:afurno@pm.me" title="Email">
@@ -84,7 +84,7 @@
 <div align="center">
   <p style="color:#cbd5e1;">Let’s collaborate on automation, OSINT, and resilient systems.</p>
   <a href="mailto:afurno@pm.me" title="Email"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=minutemailer&logoColor=ffffff" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/afurno" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/augusto-furno-a905241b9/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
   <a href="https://github.com/GustoxForge" title="GitHub"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
 </div>
 
