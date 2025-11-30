@@ -1,24 +1,13 @@
 <div align="center">
-
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:0ea5e9&height=200&section=header&text=GustoxForge&fontSize=70&fontAlignY=35&desc=Building%20Systems%2C%20Not%20Just%20Apps&descAlignY=55&descAlign=50&animation=fadeIn&fontColor=ffffff" width="100%" />
-
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Full+Stack+Developer;Automation+Engineer;OSINT+%26+Security+Enthusiast" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- SOCIAL BADGES -->
-[![Email](https://img.shields.io/badge/afurno@pm.me-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:afurno@pm.me)
-[![GitHub](https://img.shields.io/badge/GustoxForge-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustoxForge)
-
-<br/>
-
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=GustoxForge&style=for-the-badge&color=8b5cf6" alt="Profile Views"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:0ea5e9&height=200&section=header&text=GustoxForge&fontSize=70&fontAlignY=35&desc=Building%20Systems%2C%20Not%20Just%20Apps&descAlignY=55&descAlign=50&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Full+Stack+Developer;Automation+Engineer;OSINT+%26+Security+Enthusiast" alt="Typing SVG" />
+  </a>
+  <br/><br/>
+  [![Email](https://img.shields.io/badge/afurno@pm.me-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:afurno@pm.me)
+  [![GitHub](https://img.shields.io/badge/GustoxForge-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustoxForge)
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=GustoxForge&style=for-the-badge&color=8b5cf6" alt="Profile Views"/>
 </div>
 
 ---
@@ -106,13 +95,31 @@ const gustoxforge = {
 ## 🐍 Contribution Snake
 
 <div align="center">
+  <svg width="420" height="12" viewBox="0 0 420 12" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="snakePulse" x1="0%" x2="100%" y1="0%" y2="0%">
+        <stop offset="0%" stop-color="#8b5cf6">
+          <animate attributeName="stop-color" values="#8b5cf6;#0ea5e9;#8b5cf6" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="50%" stop-color="#0ea5e9">
+          <animate attributeName="stop-color" values="#0ea5e9;#14b8a6;#0ea5e9" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#14b8a6">
+          <animate attributeName="stop-color" values="#14b8a6;#8b5cf6;#14b8a6" dur="6s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="420" height="12" rx="6" fill="url(#snakePulse)">
+      <animate attributeName="width" values="380;420;380" dur="6s" repeatCount="indefinite" />
+    </rect>
+  </svg>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustoxForge/GustoxForge/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustoxForge/GustoxForge/output/snake-light.svg" />
     <img src="https://raw.githubusercontent.com/GustoxForge/GustoxForge/output/snake-dark.svg" alt="Animated contribution snake" width="95%" />
   </picture>
   <p>
-    <em>Gradient snake, custom dots palette, auto-regenerated every day.</em>
+    <em>Gradient snake, custom dots palette, auto-regenerated ogni giorno.</em>
   </p>
 </div>
 
