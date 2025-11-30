@@ -13,6 +13,18 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaborations-8B5CF6?style=for-the-badge&logo=handshake&logoColor=ffffff" alt="Open to collaborate" />
 </div>
 
+<div align="center" style="margin-top:12px;">
+  <a href="https://github.com/GustoxForge" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/augusto-furno-a905241b9/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn badge" />
+  </a>
+  <a href="mailto:afurno@pm.me" title="Email">
+    <img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=minutemailer&logoColor=ffffff" alt="Email badge" />
+  </a>
+</div>
+
 ---
 
 ## 🧭 About Me
@@ -35,6 +47,10 @@
 ### Favorite Tools
 <img src="https://skillicons.dev/icons?i=git,githubactions,bash,nginx,vscode,figma,cloudflare,vercel,graphql,prisma" alt="Favorite tools" />
 
+</div>
+
+<div align="center" style="margin:12px 0;">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,nextjs,express,redis,postgres,nginx,docker,linux&perline=6" alt="Tech icon wall" />
 </div>
 
 ---
