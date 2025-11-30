@@ -23,31 +23,31 @@
 
 ---
 
-## 🧬 About Me
+## 🧭 TL;DR
 
-\`\`\`typescript
-const gustoxforge = {
-    role: "Full Stack Developer & Automation Engineer",
-    location: "Italy",
-    focus: ["Backend Systems", "OSINT Tools", "Automation Pipelines"],
-    
-    currentlyBuilding: "Intelligent automation systems",
-    philosophy: "Automate everything. Build once. Scale infinitely.",
-    
-    skills: {
-        languages: ["TypeScript", "JavaScript", "Python", "PHP", "Ruby", "Bash"],
-        frontend: ["React", "Next.js", "Tailwind CSS", "Vite"],
-        backend: ["Node.js", "Express", "Rails", "REST APIs"],
-        databases: ["PostgreSQL", "MySQL", "SQLite", "Redis"],
-        devops: ["Docker", "Nginx", "Linux", "CI/CD"],
-        tools: ["Playwright", "OCR", "Web Scraping", "Reverse Engineering"]
-    }
-};
-\`\`\`
+- Full Stack dev + automation engineer turning manual workflows into resilient systems.
+- I ship OSINT pipelines, backend-heavy products, and DX-friendly tooling.
+- Currently building intelligent automation stacks (browser, OCR, queues, worker pools).
+- Operating from Italy; open to collaborations and niche security projects.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧬 About Me (Node-style)
+
+```typescript
+const gustoxforge = {
+  role: "Full Stack Developer & Automation Engineer",
+  location: "Italy",
+  focus: ["Backend Systems", "OSINT Tools", "Automation Pipelines"],
+  currentlyBuilding: "Intelligent automation stacks with browser + OCR + workers",
+  philosophy: "Automate everything. Build once. Scale infinitely.",
+  habits: ["fast prototyping", "observability from day one", "ship small, ship often"]
+};
+```
+
+---
+
+## 🛠️ Toolbox
 
 <div align="center">
 
@@ -63,11 +63,24 @@ const gustoxforge = {
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,rails,docker,nginx,linux&theme=dark" />
 
-**Databases & Tools**
+**Data & Tools**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,git,github&theme=dark" />
 
 </div>
+
+---
+
+## 🚀 Featured Builds
+
+- **DorkStrike — Advanced OSINT Automation**  
+  Dynamic dork generator with Playwright smart scraping, auto screenshots + OCR, vulnerability probes (SQLi/XSS/admin/listing), JSON/TXT/PNG reporting.
+
+- **ImmobiliareManager — Real Estate CRM**  
+  React + Vite frontend, Express backend. Modular architecture, offline-friendly UX, and a clean data model built for scale.
+
+- **ConcorsInfo Tools — Data Extraction Suite**  
+  Large-scale OCR extraction (PDF → structured data), quiz management, parsing pipelines, and Python automation helpers.
 
 ---
 
@@ -100,34 +113,19 @@ const gustoxforge = {
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔍 DorkStrike — Advanced OSINT Automation
-> Dynamic Google/Bing/DDG dork generator with Playwright smart scraping, auto screenshots + OCR processing, vulnerability scans (SQLi/XSS/admin/directory listing), and JSON/TXT/PNG reports.
-
-### 🏡 ImmobiliareManager — Real Estate CRM
-> Built with React + Vite (frontend) and Express (backend). Modular & scalable architecture with clean UI, designed for semi-offline environments.
-
-### 🎓 ConcorsInfo Tools — Data Extraction Suite
-> Large-scale OCR extraction (PDF → structured data), quiz management tools, data parsing pipelines, and Python automation suite.
-
----
-
-## ⚡ Philosophy
+## ⚡ How I Work
 
 <div align="center">
 
-\`\`\`
+```
 ╔════════════════════════════════════════════════════════════════╗
+║    Automate everything. Build once. Scale infinitely.          ║
 ║                                                                ║
-║    "Automate everything. Build once. Scale infinitely."        ║
-║                                                                ║
-║    ▸ Write clean, maintainable, reusable systems               ║
-║    ▸ Prefer automation over manual repetition                  ║
+║    ▸ Ship small, measurable increments                         ║
+║    ▸ Prefer automation over repetition                         ║
 ║    ▸ Design tools that feel effortless to use                  ║
-║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
-\`\`\`
+```
 
 </div>
 
